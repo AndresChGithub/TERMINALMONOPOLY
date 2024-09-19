@@ -21,4 +21,4 @@ Interested in adding to Terminal Monopoly? This is a beginner-friendly project t
 
 The base Terminal Monopoly game will have a large collection of modules which should promote a large number of playstyles, but if you have ideas for modules, code them up and create a pull request! This game is always looking for creative additions. 
 
-In the future, Terminal Monopoly may support "direct modding," that is, an interface will be available which will make module creation very simple. 
+In the future, Terminal Monopoly may support "direct modding," that is, an interface will be available which will make module creation very simple.
